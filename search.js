@@ -31,4 +31,3 @@ function myFunction() {
     }
   }
 }
-NEW SEARCH JS  - STARTS */
